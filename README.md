@@ -1,2 +1,2 @@
 # hello-NTHU 
-this is the branch of main
+this is the first branch of main
