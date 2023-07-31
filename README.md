@@ -1,2 +1,2 @@
-# hello-world
-this Hello World exercise to get started with GitHub
+# hello-NTHU 
+this is the branch of main
